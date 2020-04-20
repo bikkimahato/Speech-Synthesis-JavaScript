@@ -1,0 +1,23 @@
+{
+  "name": "speech-synthesis-javascript",
+  "version": "1.0.0",
+  "description": "A text to speech synthesis app made by JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Speech-Synthesis-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Speech-Synthesis-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Speech-Synthesis-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
